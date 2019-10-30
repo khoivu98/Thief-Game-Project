@@ -1,0 +1,10 @@
+/*
+!/ThiefGameProject/
+ThiefGameProject/*
+
+!ThiefGameProject/Assets/
+ThiefGameProject/Assets/*
+
+!ThiefGameProject/Assets/Scripts
+
+!.gitignore
